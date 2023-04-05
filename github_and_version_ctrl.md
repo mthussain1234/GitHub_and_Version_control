@@ -13,7 +13,7 @@
 
 ## What is GitHub?
 
-* Github is a remote repository hosting service
+* GitHub is a remote repository hosting service
   * It lets developers store, manage and share code "repos" online
     * Allows for developers to work collaboratively on code
 * GitHub is based on Git, which is a distributed VCS.
@@ -43,7 +43,7 @@ Git is a version control system that lets you monitor changes
 * `git commit -m "####"` commits changes to local repository with a commit message describing changes made
 * `git push` - Pushes changes committed from local repository to GitHub ( remote repo )
 * `git pull` - Pulls changes from GitHub to local repository
-* `git status` - status of repository, shows changes made but still not yet comitted
+* `git status` - status of repository, shows changes made but still not yet committed
 * `git log` - shows all commits made in repository
 * `cd filename` - change directory to specific folder
 * `cd ..` - move current folder up by one
