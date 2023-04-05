@@ -49,7 +49,3 @@ Git is a version control system that lets you monitor changes
 * `cd ..` - move current folder up by one
 * `ls` - list contents of folder
 
-## What are branches? What is merging/git merge? What is Pull Request?
-
-* Branches
-  * 
