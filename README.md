@@ -22,7 +22,7 @@
   * Advantages of this are that users can work on their own copy of the repo without being connected to a central server, and the changes made to it can be easily shared and merged.
 
 ## What is the difference between the two?
-
+![Git vs Github](git vs github.jpg "Diagram showing the differences")
 Git is a version control system that lets you monitor changes
 
 ## Benefits of version control :
