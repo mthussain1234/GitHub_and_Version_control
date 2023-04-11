@@ -23,6 +23,7 @@
 
 ## What is the difference between the two?
 ![Git vs Github](git vs github.jpg "Diagram showing the differences")
+
 Git is a version control system that lets you monitor changes
 
 ## Benefits of version control :
